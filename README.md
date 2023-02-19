@@ -16,7 +16,7 @@ This is a C++ program that simulates a game called "Alien vs Zombies". It contai
 ## Progress Log
 
 - [Part 1](PART1.md)
-- [Part 2](PART2.md)
+- [Part 2](https://github.com/TS1211101584/starterkit/blob/main/progASG-Part%202/PART2.md)
 
 ## Contributors
 
