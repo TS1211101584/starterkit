@@ -5,9 +5,9 @@ Please provide the YouTube link to your [Video Demo](https://www.youtube.com/wat
 ## Compilation Instructions
 
 USE cmd terminal to run the program
+```
 g++ "main.cpp"
-
-then choose (1/2/3/0) for game duficulty/exit
+```
 
 ## User Manual
 
@@ -15,7 +15,7 @@ This is a C++ program that simulates a game called "Alien vs Zombies". It contai
 
 ## Progress Log
 
-- [Part 1](PART1.md)
+- [Part 1](https://github.com/TS1211101584/starterkit/blob/main/progASG-Part%201/PART1.md)
 - [Part 2](https://github.com/TS1211101584/starterkit/blob/main/progASG-Part%202/PART2.md)
 
 ## Contributors
