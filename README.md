@@ -21,13 +21,13 @@ This is a C++ program that simulates a game called "Alien vs Zombies". It contai
 2. down - Alien moves down
 3. left - Alien moves left
 4. right - Alien moves right
-5. arrow - Change the direction of an arrow
+5. arrow - Change the direction of arrow
 6. help - Display user commands
 7. new - Generates new board
-8. reset - Resets the game
-9. save - Save the game
-10. load - Load a game
-11. quit - Quit the game
+8. reset - Resets game
+9. save - Save game
+10. load - Load game
+11. quit - Quit game
 
 ## Progress Log
 
